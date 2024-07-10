@@ -10,6 +10,8 @@
 - OpenCV 4.9.0 installed here is not built with gstreamer.
 
 
-#Error occurred
+# Error occurred
+
 -Ultralytics cannot be installed at virtual environment (--system-site-packages) anymore.
+
 -Please continue to check pqed78/opt_base0
